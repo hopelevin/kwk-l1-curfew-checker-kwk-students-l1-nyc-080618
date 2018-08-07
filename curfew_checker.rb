@@ -13,7 +13,6 @@ def curfew_checker(time)
   end
   if time >= 23
     puts "You're in trouble! Better get home quick!"
-  end
   if time < 21
     puts "Keep having fun!"
   end
