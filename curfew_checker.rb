@@ -1,5 +1,5 @@
 #simple_curfew_checker
-def simple_curfew_checker(time)
+def simple_curfew_checker(time) end
   if time == 23
     puts "You're in trouble! Better get home quick!"
   end
@@ -7,7 +7,7 @@ def simple_curfew_checker(time)
     puts "You're in trouble! Better get home quick!"
   end
 
-def curfew_checker(time)
+def curfew_checker(time) end
   if time == 23
     puts "You're in trouble! Better get home quick!"
   end
@@ -17,7 +17,7 @@ def curfew_checker(time)
     puts "Keep having fun!"
   end
    
-def complex_curfew_checker(time)
+def complex_curfew_checker(time) end
   if time == 23
     puts "Time to apparate!"
   end
@@ -28,7 +28,7 @@ def complex_curfew_checker(time)
     puts "Keep having fun!"
   end
 
-def deluxe_curfew_checker(time)
+def deluxe_curfew_checker(time) end
   if time == 23
     puts "Time to apparate!"
   end
@@ -39,7 +39,7 @@ def deluxe_curfew_checker(time)
     puts "You have 2 hour(s) left to keep having fun!"
   end
 
-def platinum_curfew_checker(current_time, curfew_time)
+def platinum_curfew_checker(current_time, curfew_time) end
   if time == 23
     puts "Time to apparate!"
   end
