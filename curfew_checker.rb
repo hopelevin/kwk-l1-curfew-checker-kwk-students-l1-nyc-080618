@@ -47,5 +47,4 @@ def platinum_curfew_checker(current_time, curfew_time) end
     puts "You're in trouble! Better get back to Hogwarts quick!"
   end
   if time > 21
-    puts "You have 2 hour(s) left to keep having fun!"
-end
+    puts "You have 2 hour(s) left to keep having fun!"end
