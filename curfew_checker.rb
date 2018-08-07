@@ -48,4 +48,4 @@ def platinum_curfew_checker(current_time, curfew_time) end
   end
   if time > 21
     puts "You have 2 hour(s) left to keep having fun!"
-  end
+end
